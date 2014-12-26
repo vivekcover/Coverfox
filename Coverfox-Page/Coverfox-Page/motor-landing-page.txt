@@ -1,0 +1,4 @@
+1: Motor landing page offer box should be 100% on Mobile.
+2: When click on any offer box form section have alignment issue on the page.
+3: Pop Up Should be Resonsive.
+4: Innerpage is not responsive.
